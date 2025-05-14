@@ -19,3 +19,7 @@ class Solution {
 input: nums [1,2,3,4] , target = 3
 output: [0,1]
     */
+
+/* Hàm vector trong C++ 
+    vector<data_type> vector_name;
+*/
